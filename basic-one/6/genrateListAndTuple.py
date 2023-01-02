@@ -1,0 +1,5 @@
+data=str(input('Enter comma separeted values : '))
+list=list(data)
+tuple=tuple(list)
+print('list : ',list)
+print('tuple : ',tuple)
