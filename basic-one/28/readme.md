@@ -15,7 +15,7 @@ solution -
     2) in for loop first we will add if statement if its gets true then we we break the for loop and return the array
     3) if if- condition was not satisfied then we will print even numbers in the loop by similly divided number with 2 if its reminder gets zero then is even number 
 
-pseudocode
+pseudocode -
     for loop 
     if number === 237 break loop
     else print number % 2 === 0 
